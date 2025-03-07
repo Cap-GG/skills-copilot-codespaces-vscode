@@ -12,3 +12,6 @@ function skillsMember() {
         liveDemo: 'https://project1.com',
           github: ''
         }
+      ]
+    }
+  };
